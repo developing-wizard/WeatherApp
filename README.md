@@ -17,3 +17,7 @@ https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API k
 
 ⚙️ Built using modern Android best practices with Kotlin
 
+
+## 📸 User Interface
+### Home Screen
+<img src="screenshots/MainPageImage.jpg" alt="Login Screen" width="200"/>
